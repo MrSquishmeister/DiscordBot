@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee5355b-7dc4-44c9-8916-f2fcbf7efe69" name="Changes" comment="event listener feat: detects if message includes &quot;test&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lee/DiscordBotMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lee/DiscordBotMain.java" afterDir="false" />
+    <list default="true" id="aee5355b-7dc4-44c9-8916-f2fcbf7efe69" name="Changes" comment="token fix: created variable to store token, allowing removal before github upload">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lee/BotCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lee/BotMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lee/BotMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lee/DiscordBotMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +45,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="RunApplication" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="org.lee.DiscordBotMain" />
+      <option name="MAIN_CLASS_NAME" value="org.lee.BotMain" />
       <module name="DiscordBot" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -50,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673874437128</updated>
-      <workItem from="1673874438439" duration="3192000" />
+      <workItem from="1673874438439" duration="7973000" />
     </task>
     <task id="LOCAL-00001" summary="event listener feat: detects if message includes &quot;test&quot;">
       <created>1673877430834</created>
@@ -59,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673877430834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="token fix: created variable to store token, allowing removal before github upload">
+      <created>1673877692819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673877692819</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="event listener feat: detects if message includes &quot;test&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="event listener feat: detects if message includes &quot;test&quot;" />
+    <MESSAGE value="token fix: created variable to store token, allowing removal before github upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="token fix: created variable to store token, allowing removal before github upload" />
   </component>
 </project>
