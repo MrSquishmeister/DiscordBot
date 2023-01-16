@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee5355b-7dc4-44c9-8916-f2fcbf7efe69" name="Changes" comment="token fix: created variable to store token, allowing removal before github upload">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lee/BotCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lee/BotMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lee/BotMessages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lee/DiscordBotMain.java" beforeDir="false" />
+    <list default="true" id="aee5355b-7dc4-44c9-8916-f2fcbf7efe69" name="Changes" comment="command feat: bot commands added to add two inputted values together and output result">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lee/BotMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lee/BotMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673874437128</updated>
-      <workItem from="1673874438439" duration="7973000" />
+      <workItem from="1673874438439" duration="8463000" />
     </task>
     <task id="LOCAL-00001" summary="event listener feat: detects if message includes &quot;test&quot;">
       <created>1673877430834</created>
@@ -76,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673877692819</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="command feat: bot commands added to add two inputted values together and output result">
+      <created>1673882654541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673882654541</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="event listener feat: detects if message includes &quot;test&quot;" />
     <MESSAGE value="token fix: created variable to store token, allowing removal before github upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="token fix: created variable to store token, allowing removal before github upload" />
+    <MESSAGE value="command feat: bot commands added to add two inputted values together and output result" />
+    <option name="LAST_COMMIT_MESSAGE" value="command feat: bot commands added to add two inputted values together and output result" />
   </component>
 </project>
