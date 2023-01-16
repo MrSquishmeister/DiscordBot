@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee5355b-7dc4-44c9-8916-f2fcbf7efe69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lee/DiscordBotMain.java" afterDir="false" />
+    <list default="true" id="aee5355b-7dc4-44c9-8916-f2fcbf7efe69" name="Changes" comment="event listener feat: detects if message includes &quot;test&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lee/DiscordBotMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lee/DiscordBotMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +50,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673874437128</updated>
-      <workItem from="1673874438439" duration="2837000" />
+      <workItem from="1673874438439" duration="3192000" />
     </task>
+    <task id="LOCAL-00001" summary="event listener feat: detects if message includes &quot;test&quot;">
+      <created>1673877430834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673877430834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="event listener feat: detects if message includes &quot;test&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="event listener feat: detects if message includes &quot;test&quot;" />
   </component>
 </project>

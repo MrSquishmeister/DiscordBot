@@ -10,8 +10,10 @@ import org.jetbrains.annotations.NotNull;
 
 public class DiscordBotMain extends ListenerAdapter {
 
+    static String token = "";
+
     public static void main(String[] args) {
-        JDA bot = JDABuilder.createDefault("MTA2NDUzMzQ5ODYyODY3NzcyMg.Gn84FL.veJTyggCYD-63BTwChWIS19So3guGf2Eg6Anr8")
+        JDA bot = JDABuilder.createDefault(token)
                 .setActivity(Activity.playing("with your mum"))
                 .addEventListeners(new DiscordBotMain())
                 .enableIntents(GatewayIntent.MESSAGE_CONTENT)
